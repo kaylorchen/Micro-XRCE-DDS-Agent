@@ -1,0 +1,6 @@
+ros-humble-micro-xrce-dds-agent (3.0.6-0jammy) jammy; urgency=high
+
+  * Fix thread include (backport #216 <https://github.com/micro-ROS/micro-ROS-Agent/issues/216>) (#217 <https://github.com/micro-ROS/micro-ROS-Agent/issues/217>)
+
+ -- Pablo Garrido <pablogarrido@eprosima.com>  Sun, 28 Jan 2024 16:00:00 -0000
+
